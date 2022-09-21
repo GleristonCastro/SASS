@@ -1,4 +1,11 @@
 # Praticando SASS
+Aa realizar o curso de SASS criamos o projeto Galleria, nele foi possível abordar a metodologia do SASS. Uma tecnolgia magnifica, incrível.
+
+[![Preview do projeto](./img/screenshot.png "Clique para acesasr o preview do Projeto")](https://gleristoncastro.com.br/portfolio/github/preview/SASS/projeto3/)
+
+
+_Para visualizar o preview do projeto clique na imagem acima._
+______________________
 
 Para instalar o SASS de forma global utilizar a seguinte linha de comando
 
@@ -69,12 +76,14 @@ com menos código e podendo reaproveitar trechos de códigos com facilidade.
 
 > Sem sombra de dúvida o SASS é uma ferramenta incrível, apenas com pouco mais de 150 linhas (isso sem resumo de linhas) consegui fazer todo o css, que após transpilar passou a ter mais de 220 linhas. O SASS me lembrou bastante o TypeScript. Foi bom conhecer, quero adotar em futuros projetos.
 
+______________________
 ### Agradecimentos/Créditos:
 
 Gostaria de agradecer ao [Matheus Battisti](https://github.com/matheusbattisti) por disponibilizar seu tempo e disseminar seu conhecimento.
 
 - [SASS: Crie o seu primeiro projeto](https://www.udemy.com/share/104mdS3@2joPWH7Eqwp0GEy6AV6myjzRKkTk3TDN2cUsWwl57Xbkbjcm39qhXGgKHIg1sz1v/)
 
+______________________
 ### Dificuldades
 
 Não sentir dificuldades visto que já tenho uma boa bagagem de CSS, a sintaxe do SASS muito prática.
