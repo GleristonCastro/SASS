@@ -2,7 +2,7 @@
 
 Tiver como [inspiração no vídeo](https://www.youtube.com/watch?v=8zYxYj0MrsE) na internet do [Canal do Youtube Agnaldo Guimarães](https://www.youtube.com/c/AgnaldoGuimar%C3%A3es). A proposta do autor do vídeo era recriar a tabela usando table, grid e flex box. Porém como ele publica um vídeo por semana, decidi fazer todo o projeto antecipadamente. Foi um projeto divertido e que todos os aprendizes deviam recriar devido a praticidade do grid e os desafios da responsividade.
 
-[![Preview do projeto](./assets/img/screenshot.png "Clique para acesasr o preview do Projeto")](https://gleristoncastro.com.br/portfolio/github/preview/SASS/projeto3/)
+[![Preview do projeto](./assets/img/screenshot.avif "Clique para acesasr o preview do Projeto")](https://gleristoncastro.com.br/portfolio/github/preview/SASS/projeto3/)
 
 
 _Para visualizar o preview do projeto clique na imagem acima._

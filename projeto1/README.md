@@ -1,7 +1,7 @@
 # Praticando SASS
 Aa realizar o curso de SASS criamos o projeto Galleria, nele foi possível abordar a metodologia do SASS. Uma tecnolgia magnifica, incrível.
 
-[![Preview do projeto](./img/screenshot.png "Clique para acesasr o preview do Projeto")](https://gleristoncastro.com.br/portfolio/github/preview/SASS/projeto3/)
+[![Preview do projeto](./img/screenshot.avif "Clique para acesasr o preview do Projeto")](https://gleristoncastro.com.br/portfolio/github/preview/SASS/projeto3/)
 
 
 _Para visualizar o preview do projeto clique na imagem acima._
